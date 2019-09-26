@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\labs\ConsoleApp1\2.6\bin\Debug\2.6.exe.config
+C:\Users\Acer\Desktop\labs\ConsoleApp1\2.6\bin\Debug\2.6.exe
+C:\Users\Acer\Desktop\labs\ConsoleApp1\2.6\bin\Debug\2.6.pdb
+C:\Users\Acer\Desktop\labs\ConsoleApp1\2.6\obj\Debug\2.6.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\labs\ConsoleApp1\2.6\obj\Debug\2.6.exe
+C:\Users\Acer\Desktop\labs\ConsoleApp1\2.6\obj\Debug\2.6.pdb
